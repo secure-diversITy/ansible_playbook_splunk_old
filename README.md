@@ -1,3 +1,10 @@
+# Deprecated by PORS
+
+Checkout it out: https://github.com/secure-diversITy/ansible_pors
+
+## outdated
+
+~~~
 # Ansible Playbook for Splunk
 - **Authors**:	Mika Borner <mika.borner@gmail.com>, Thomas Fischer <mail@se-di.de>
 - **Description**:	Ansible Playbook for Splunk
@@ -21,3 +28,4 @@
 
 ## References
 [1] http://creativecommons.org/licenses/by-nc-sa/4.0/
+~~~
